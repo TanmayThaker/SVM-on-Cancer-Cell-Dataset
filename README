@@ -1,0 +1,2 @@
+In this repo I have demonstrated the use of Support vector Machine(SVM) in Cancer Cells Dataset.
+I have cleaned all the data and performed data preprocessing and data visualization and also calculated the various accuracy scores like F1 score, jaccard index and confusion matrix.
